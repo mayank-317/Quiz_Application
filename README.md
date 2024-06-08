@@ -38,7 +38,7 @@ Front end: JSP (JavaServer Pages)
 <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java Logo" width="50" height="50">
 
 Server-side: Servlets
-<img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Servlet Logo" width="50" height="50">
+<img src="https://img.icons8.com/ios-filled/50/000000/server.png" alt="Servlet Logo" width="50" height="50">
 
 Database: MySQL
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="50" height="50">
@@ -73,21 +73,13 @@ Mysql-Workbench or Xampp
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Educational Institutions:
-    -Assessments
-    -Practice Tests
+1. Educational Institutions: Assessments, Practice Tests
 
-2. Community and Social Engagement:
-    -Trivia Nights
-    -Knowledge Sharing
+2. Community and Social Engagement: Trivia Nights, Knowledge Sharing
 
-3. Personal Development:
-    -Self-Improvement
-    -Hobbyist Learning
+3. Personal Development: Self-Improvement, Hobbyist Learning
 
-4. Competitive Exams:
-    -Exam Preparation
-    -Mock Tests
+4. Competitive Exams: Exam Preparation, Mock Tests
 
 
 <!-- CONTACT -->
