@@ -38,7 +38,7 @@ Front end: JSP (JavaServer Pages)
 <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java Logo" width="50" height="50">
 
 Server-side: Servlets
-<img src="https://img.icons8.com/ios-filled/50/000000/server.png" alt="Servlet Logo" width="50" height="50">
+<img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Servlet Logo" width="50" height="50">
 
 Database: MySQL
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="50" height="50">
